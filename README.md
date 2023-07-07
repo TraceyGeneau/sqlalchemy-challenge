@@ -33,7 +33,7 @@ From the station analysis, it was determined there are a total of 9 weather stat
 The last recorded date found at this station was 2017-08-18.  The data from the 12 monthd prior to this date was recorded in histogram below (fig 2) indicating the highest frequency of measurements were taken at approximately 75°F to 77°F.
 
 ### Figure 2:  Histogram indicating the freequency of recordable Temperatures at station USC00519281 from 2016-08-18 to 2017-08-18
-![](https://github.com/TraceyGeneau/sqlalchemy-challenge/blob/main/Surfs_UP/images/tobs.png)
+![](https://github.com/TraceyGeneau/sqlalchemy-challenge/blob/main/Surfs_UP/images/tobs.png)  <br/><br/>
 
 ## Part 2: Design your Climat App
 
