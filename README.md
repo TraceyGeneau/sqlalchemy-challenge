@@ -17,14 +17,14 @@ Given the dataset, the most recent recorded precipitation event was 2017-08-23 a
 
 The summary statistics for this dat are:
 
-count	2021
-mean	0.177279
-std	    0.461190
-min	    0.000000
-25%	    0.000000
-50%	    0.020000
-75%	    0.130000
-max	    6.700000
+count	2021<br/>
+mean	0.177279<br/>
+std	    0.461190<br/>
+min	    0.000000<br/>
+25%	    0.000000<br/>
+50%	    0.020000<br/>
+75%	    0.130000<br/>
+max	    6.700000<br/>
 
 ### Exploratory Station Analysis
 
